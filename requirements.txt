@@ -1,0 +1,4 @@
+numpy
+csv
+tqdm
+matplotlib.pyplot
